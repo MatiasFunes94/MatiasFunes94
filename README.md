@@ -1,5 +1,7 @@
 ### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 
+![MatiasFunes94 github stats](https://github-readme-stats.vercel.app/api?username=MatiasFunes94&show_icons=true&theme=radical)
+
 
 <!--
 **MatiasFunes94/MatiasFunes94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
