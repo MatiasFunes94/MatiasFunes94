@@ -1,19 +1,47 @@
-<!-- ### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg) -->
+### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
+<h1 align="center">Hi 👋, I'm Matias Funes</h1>
+<h3 align="center">An industrial engineer who decided to come in technology industry</h3>
 
-![MatiasFunes94 github stats](https://github-readme-stats.vercel.app/api?username=MatiasFunes94&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiasFunes94" alt="pydevsg" /> </p>
 
+- 🧑🏻‍💻 I’m currently looking for a remote job. 
 
-<!--
-**MatiasFunes94/MatiasFunes94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Industrial Engineer
 
-Here are some ideas to get you started:
+- ✌🏻 Mendoza, Argentina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 See my portfolio at https://matiasfunes94.github.io/Portfolio/
+
+- 📫 Contact me - **matias.ariel.funes@gmail.com**
+
+- 📞 Phone: **+54 2612512255**
+
+### Skills
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgresql40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://icongr.am/devicon/mocha-plain.svg?size=128&color=currentColor" alt="mocha" width="40" height="40"/>
+
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatiasFunes94&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatiasFunes94&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://matiasfunes94.github.io/Portfolio/"><img src="https://img.shields.io/badge/-MatiasFunes94.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matias-ariel-funes/"><img src="https://img.shields.io/badge/-Matias%20Funes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:matias.ariel.funes@gamil.com"><img src="https://img.shields.io/badge/-matias.ariel.funes@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
