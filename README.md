@@ -10,7 +10,7 @@
 
 - ✌🏻 Mendoza, Argentina
 
-- 👨‍💻 See my portfolio at https://matiasfunes94.github.io/Portfolio/
+- 👨‍💻 See my portfolio at https://matiasfunes94.github.io/Portfolio-MatiasFunes94/
 
 - 📫 Contact me - **matias.ariel.funes@gmail.com**
 
