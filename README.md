@@ -1,10 +1,10 @@
 ### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 <h1 align="center">Hi 👋, I'm Matias Funes</h1>
-<h3 align="center">An industrial engineer who decided to come in technology industry</h3>
+<h3 align="center">An industrial engineer who decided to come into the technology industry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiasFunes94" alt="pydevsg" /> </p>
 
-- 🧑🏻‍💻 I’m currently looking for a remote job. 
+- 🧑🏻‍💻 I’m currently using Gitlab because my current company uses this platform user: MatiFunes94
 
 - 🚀 Industrial Engineer
 
