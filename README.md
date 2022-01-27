@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiasFunes94" alt="pydevsg" /> </p>
 
-- 🧑🏻‍💻 I’m currently using Gitlab because my current company uses this platform user: MatiFunes94
+- 🧑🏻‍💻 I’m currently using this account in my company RecargaPay: RP-matiasfunes
 
 - 🚀 Industrial Engineer
 
